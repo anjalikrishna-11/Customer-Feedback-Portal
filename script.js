@@ -43,5 +43,3 @@ document.addEventListener("DOMContentLoaded", function() {
         // The JavaScript code above dynamically creates and appends elements to display the customer's feedback upon successful form submission.
     });
 });
-    });
-});
